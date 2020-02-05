@@ -72,7 +72,7 @@ open class TTSegmentedControl: UIView {
     fileprivate var lastSelectedViewWidth: CGFloat = 0
     
     
-    fileprivate let thumbPadding: CGFloat = 2
+    fileprivate let thumbPadding: CGFloat = 0
     
     fileprivate let shadowLayer = CAShapeLayer()
     fileprivate var gradientLayer = CAGradientLayer()
